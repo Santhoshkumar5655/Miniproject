@@ -1,0 +1,111 @@
+const Reslis = [
+  {
+    name: "The Gourmet Bistro",
+    cuisine: "French",
+    location: "Paris, France",
+    rating: 4.8,
+  },
+  {
+    name: "Sushi Paradise",
+    cuisine: "Japanese",
+    location: "Tokyo, Japan",
+    rating: 4.9,
+  },
+  {
+    name: "Pasta Palace",
+    cuisine: "Italian",
+    location: "Rome, Italy",
+    rating: 4.7,
+  },
+  {
+    name: "Taco Fiesta",
+    cuisine: "Mexican",
+    location: "Mexico City, Mexico",
+    rating: 4.6,
+  },
+  {
+    name: "Curry House",
+    cuisine: "Indian",
+    location: "Mumbai, India",
+    rating: 4.7,
+  },
+  {
+    name: "Dragon's Delight",
+    cuisine: "Chinese",
+    location: "Beijing, China",
+    rating: 4.8,
+  },
+  {
+    name: "Steak Haven",
+    cuisine: "American",
+    location: "New York, USA",
+    rating: 4.5,
+  },
+  {
+    name: "Tapas Bar",
+    cuisine: "Spanish",
+    location: "Barcelona, Spain",
+    rating: 4.6,
+  },
+  {
+    name: "Le Petite Café",
+    cuisine: "French",
+    location: "Nice, France",
+    rating: 4.7,
+  },
+  {
+    name: "Sushi Zen",
+    cuisine: "Japanese",
+    location: "Osaka, Japan",
+    rating: 4.8,
+  },
+  {
+    name: "Pizza Perfection",
+    cuisine: "Italian",
+    location: "Naples, Italy",
+    rating: 4.9,
+  },
+  {
+    name: "Burrito Bonanza",
+    cuisine: "Mexican",
+    location: "Guadalajara, Mexico",
+    rating: 4.6,
+  },
+  {
+    name: "Spice Route",
+    cuisine: "Indian",
+    location: "Delhi, India",
+    rating: 4.7,
+  },
+  {
+    name: "Noodle Nirvana",
+    cuisine: "Chinese",
+    location: "Shanghai, China",
+    rating: 4.8,
+  },
+  {
+    name: "Grill Master",
+    cuisine: "American",
+    location: "Chicago, USA",
+    rating: 4.5,
+  },
+  {
+    name: "Paella Place",
+    cuisine: "Spanish",
+    location: "Valencia, Spain",
+    rating: 4.6,
+  },
+  {
+    name: "Bistro Bella",
+    cuisine: "French",
+    location: "Lyon, France",
+    rating: 4.7,
+  },
+  {
+    name: "Ramen Retreat",
+    cuisine: "Japanese",
+    location: "Kyoto, Japan",
+    rating: 4.8,
+  },
+];
+export default Reslis;
